@@ -1,4 +1,5 @@
-{
+[
+  {
     "_id": "63768b1a762f1727aa08045a",
     "index": 0,
     "guid": "2bf14f22-f5dd-47c1-9275-19dc9cf87f6d",
@@ -268,3 +269,4 @@
     "greeting": "Hello, Madge Reed! You have 5 unread messages.",
     "favoriteFruit": "apple"
   }
+]
